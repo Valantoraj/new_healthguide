@@ -1,0 +1,226 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>HealthGuide360</title>
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.css' %}" />
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <!--owl slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  <!-- font awesome style -->
+  <link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet" />
+  <!-- nice select -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
+  <!-- datepicker -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.css">
+  <!-- Custom styles for this template -->
+  <link href="{% static 'css/style.css' %}" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="{% static 'css/responsive.css' %}" rel="stylesheet" />
+</head>
+
+<body>
+
+  <div class="hero_area">
+    <!-- header section strats -->
+    {% include 'header.html' %}
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class="slider_section ">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="detail-box">
+                    <div class="play_btn">
+                      <button>
+                        <i class="fa fa-play" aria-hidden="true"></i>
+                      </button>
+                    </div>
+                    <h1>
+                      HealthGuide <br>
+                      <span>
+                        360
+                      </span>
+                    </h1>
+                    <p>
+                      Welcome to HealthGuide360, your comprehensive digital companion for navigating your health journey. Our mission is to empower you with the tools and knowledge you need to make informed decisions about your health and well-being.
+                    </p>
+                    <a href="/about">
+                      Read More
+                    </a>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="{% static 'images/home.jpg' %}" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+
+    </section>
+    <!-- end slider section -->
+  </div>
+
+  <!-- book section -->
+  <section class="book_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <form method="post" action="{% url 'index' %}">
+                    {% csrf_token %}
+                    <h4>BOOK <span>APPOINTMENT</span></h4>
+                    <div class="form-row">
+                        <div class="form-group col-lg-4">
+                            <label for="{{ form.name.id_for_label }}">Patient Name</label>
+                            {{ form.name }}
+                            {% if form.name.errors %}
+                                <div class="error">{{ form.name.errors }}</div>
+                            {% endif %}
+                        </div>
+                        <div class="form-group col-lg-4">
+                            <label for="{{ form.phone_no.id_for_label }}">Phone Number</label>
+                            {{ form.phone_no }}
+                            {% if form.phone_no.errors %}
+                                <div class="error">{{ form.phone_no.errors }}</div>
+                            {% endif %}
+                        </div>
+                        <div class="form-group col-lg-4">
+                            <label for="{{ form.date.id_for_label }}">Choose Date</label>
+                            {{ form.date }}
+                            {% if form.date.errors %}
+                                <div class="error">{{ form.date.errors }}</div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-lg-4">
+                            <label for="{{ form.department.id_for_label }}">Department</label>
+                            {{ form.department }}
+                            {% if form.department.errors %}
+                                <div class="error">{{ form.department.errors }}</div>
+                            {% endif %}
+                        </div>
+                        <div class="form-group col-lg-4">
+                            <label for="{{ form.doctor.id_for_label }}">Doctor's Name</label>
+                            {{ form.doctor }}
+                            {% if form.doctor.errors %}
+                                <div class="error">{{ form.doctor.errors }}</div>
+                            {% endif %}
+                        </div>
+                        <div class="form-group col-lg-4">
+                            <label for="{{ form.time.id_for_label }}">Choose Time</label>
+                            {{ form.time }}
+                            {% if form.time.errors %}
+                                <div class="error">{{ form.time.errors }}</div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-lg-12">
+                            <label for="{{ form.symptoms.id_for_label }}">Symptoms</label>
+                            {{ form.symptoms }}
+                            {% if form.symptoms.errors %}
+                                <div class="error">{{ form.symptoms.errors }}</div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% if user.is_authenticated %}
+                    <div class="btn-box">
+                        <button type="submit" class="btn">Submit Now</button>
+                    </div>
+                    <div class="form-group col-lg-12">
+                        <p class="description">
+                          You will receive a message regarding the online consultation details once your appointment is confirmed.
+                        </p>
+                    </div>
+                    {%else%}
+                    <div class="btn-box">
+                      <button type="submit" disabled class="btn">Submit Now</button>
+                    </div>
+                    <div class="form-group col-lg-12">
+                      <p class="description">
+                        Login To Book Appointment
+                      </p>
+                    </div>
+                    {%endif%}
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+  <!-- end book section -->
+
+  <!-- info section -->
+  {% include 'info_section.html'%}
+  <!-- end info_section -->
+  {% if messages %}
+      {% for message in messages %}
+        <script type="text/javascript">
+          alert("{{ message|escapejs }}");
+        </script>
+      {% endfor %}
+    {% endif %}
+  <!-- nice select -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
+  <!-- owl slider -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+  <!-- datepicker -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+        $('#id_department').change(function() {
+            var deptId = $(this).val();
+            $.getJSON('{% url "get_doctors" %}', { department_id: deptId }, function(data) {
+                var doctorSelect = $('#id_doctor');
+                doctorSelect.empty();
+                doctorSelect.append('<option value="" disabled selected>Select a doctor</option>');
+                $.each(data.doctors, function(i, doc) {
+                    doctorSelect.append('<option value="' + doc.id + '">' + doc.name + '</option>');
+                });
+            });
+        });
+    
+        $('#id_doctor').change(function() {
+          console.log("hi");
+          var doctorId = $(this).val();
+          var date = $('#id_date').val();
+          if (doctorId && date) {
+              $.getJSON('{% url "get_available_times" %}', { doctor_id: doctorId, date: date }, function(data) {
+                  var timeSelect = $('#id_time');
+                  timeSelect.empty();
+                  timeSelect.append('<option value="" disabled selected>Select a time</option>');
+                  $.each(data.available_times, function(i, time) {
+                      timeSelect.append('<option value="' + time + '">' + time + '</option>');
+                  });
+              });
+          }
+      });
+  
+    
+    });
+    </script>
+  
+</body>
+
+</html>

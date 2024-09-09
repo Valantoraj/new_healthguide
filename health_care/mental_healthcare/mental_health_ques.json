@@ -1,0 +1,1078 @@
+{
+    "Lack of confidence": [
+        "What do you think you're really good at?",
+        "How do you usually feel when you're about to start something new?",
+        "When things don't go as planned, how do you handle the situation?",
+        "Can you describe a time when you felt really proud of yourself?",
+        "How often do you ask for help or advice from others?",
+        "What are some things you'd like to improve about yourself?",
+        "How do you feel when you're around other people, especially in groups?"
+    ],
+    "Social withdrawal": [
+        "How do you feel when you're invited to social gatherings?",
+        "How often do you spend time with friends or family?",
+        "Do you prefer being alone rather than being with others?",
+        "How comfortable are you in large groups?",
+        "How do you feel about meeting new people?",
+        "Do you often avoid social events?",
+        "How do you react when someone tries to engage you in conversation?"
+    ],
+    "Overfamiliarity with strangers": [
+        "How comfortable are you when meeting new people?",
+        "Do you often share personal information with people you just met?",
+        "How quickly do you feel you can trust someone new?",
+        "How do you decide what to share with others?",
+        "Do you find it easy to make friends quickly?",
+        "How do you usually approach someone you don't know?",
+        "How do you feel about maintaining boundaries with others?"
+    ],
+    "Limited range of emotions": [
+        "How often do you feel a strong emotion, like joy or anger?",
+        "How do you express your feelings to others?",
+        "Do you feel that your emotions are often muted or subdued?",
+        "How do you react to situations that typically evoke strong emotions in others?",
+        "How often do you laugh or cry?",
+        "How do you feel about discussing your emotions?",
+        "How would you describe your emotional state on a daily basis?"
+    ],
+    "Cognitive impairment": [
+        "Do you sometimes find it hard to remember things or stay focused?",
+        "How often do you lose track of time or forget appointments?",
+        "Do you struggle with tasks that require concentration?",
+        "How well do you remember recent events or conversations?",
+        "Do you find it difficult to learn new things?",
+        "How often do you feel confused or disoriented?",
+        "Do you need help with tasks that used to be easy for you?"
+    ],
+    "Lack of interest in relationships": [
+        "How important are friendships and relationships to you?",
+        "How often do you reach out to friends or family?",
+        "Do you feel satisfied with your current relationships?",
+        "How do you feel about making new friends?",
+        "Do you prefer spending time alone rather than with others?",
+        "How do you feel when others try to connect with you?",
+        "Do you find it difficult to maintain relationships over time?"
+    ],
+    "Unresponsive to caregivers": [
+        "How do you usually respond when someone tries to help you?",
+        "How do you feel about receiving assistance from others?",
+        "Do you often reject help even when you need it?",
+        "How do you communicate your needs to others?",
+        "Do you feel that others understand your needs?",
+        "How do you feel about expressing gratitude when someone helps you?",
+        "How do you respond when someone offers you advice or support?"
+    ],
+    "Skin irritation": [
+        "Have you noticed any changes or discomfort with your skin recently?",
+        "How often do you experience itching or redness on your skin?",
+        "Have you tried any new skincare products or treatments?",
+        "Do certain fabrics or materials irritate your skin?",
+        "How do you manage any skin discomfort you experience?",
+        "Have you noticed any rashes or bumps on your skin?",
+        "How does your skin feel after exposure to sunlight or other elements?"
+    ],
+    "Compulsive acquisition": [
+        "Do you often feel the need to buy or collect things, even when you don't need them?",
+        "How often do you shop for items you don't really need?",
+        "Do you have difficulty letting go of items you no longer use?",
+        "How do you feel after making a purchase?",
+        "Do you find yourself buying things impulsively?",
+        "How much of your living space is taken up by items you've collected?",
+        "Do you ever feel guilty or regretful about your purchases?"
+    ],
+    "Struggles with moral decisions": [
+        "How do you usually feel when making difficult ethical choices?",
+        "Do you often second-guess your decisions?",
+        "How do you weigh right and wrong in your daily life?",
+        "Do you seek advice when faced with a moral dilemma?",
+        "How do you handle situations where your values are challenged?",
+        "Have you ever felt conflicted about doing the right thing?",
+        "How do you react when you witness someone doing something you believe is wrong?"
+    ],
+    "Lack of interest in relationships": [
+        "How important are friendships and relationships to you?",
+        "How often do you reach out to friends or family?",
+        "Do you feel satisfied with your current relationships?",
+        "How do you feel about making new friends?",
+        "Do you prefer spending time alone rather than with others?",
+        "How do you feel when others try to connect with you?",
+        "Do you find it difficult to maintain relationships over time?"
+    ],
+    "Unresponsive to caregivers": [
+        "How do you usually respond when someone tries to help you?",
+        "How do you feel about receiving assistance from others?",
+        "Do you often reject help even when you need it?",
+        "How do you communicate your needs to others?",
+        "Do you feel that others understand your needs?",
+        "How do you feel about expressing gratitude when someone helps you?",
+        "How do you respond when someone offers you advice or support?"
+    ],
+    "Skin irritation": [
+        "Have you noticed any changes or discomfort with your skin recently?",
+        "How often do you experience itching or redness on your skin?",
+        "Have you tried any new skincare products or treatments?",
+        "Do certain fabrics or materials irritate your skin?",
+        "How do you manage any skin discomfort you experience?",
+        "Have you noticed any rashes or bumps on your skin?",
+        "How does your skin feel after exposure to sunlight or other elements?"
+    ],
+    "Compulsive acquisition": [
+        "Do you often feel the need to buy or collect things, even when you don't need them?",
+        "How often do you shop for items you don't really need?",
+        "Do you have difficulty letting go of items you no longer use?",
+        "How do you feel after making a purchase?",
+        "Do you find yourself buying things impulsively?",
+        "How much of your living space is taken up by items you've collected?",
+        "Do you ever feel guilty or regretful about your purchases?"
+    ],
+    "Struggles with moral decisions": [
+        "How do you usually feel when making difficult ethical choices?",
+        "Do you often second-guess your decisions?",
+        "How do you weigh right and wrong in your daily life?",
+        "Do you seek advice when faced with a moral dilemma?",
+        "How do you handle situations where your values are challenged?",
+        "Have you ever felt conflicted about doing the right thing?",
+        "How do you react when you witness someone doing something you believe is wrong?"
+    ],
+    "Submissiveness": [
+        "How do you usually respond to authority figures?",
+        "Do you often agree with others to avoid conflict?",
+        "How comfortable are you with expressing your own opinions?",
+        "Do you find it hard to say no to people?",
+        "How do you feel when someone disagrees with you?",
+        "Do you often follow others' leads rather than taking charge?",
+        "How do you handle situations where you must make a decision on your own?"
+    ],
+    "Intrusive thoughts": [
+        "How often do you have thoughts that disturb or upset you?",
+        "Do you find it hard to control certain thoughts that come to mind?",
+        "How do you react when you experience an unwanted thought?",
+        "Do these thoughts ever interfere with your daily activities?",
+        "How do you cope with thoughts that make you uncomfortable?",
+        "Do you feel you can share these thoughts with others?",
+        "How often do these thoughts come up when you're trying to relax?"
+    ],
+    "Clinginess": [
+        "How do you feel when someone you care about is away from you?",
+        "Do you often seek reassurance from others?",
+        "How comfortable are you being alone for extended periods?",
+        "Do you feel anxious when you don't hear from someone important to you?",
+        "How do you handle separation from loved ones?",
+        "Do you often worry about losing people close to you?",
+        "How do you react when someone you care about is busy or unavailable?"
+    ],
+    "Internet addiction": [
+        "How much time do you spend online each day?",
+        "Do you often find it hard to disconnect from the internet?",
+        "How do you feel when you're unable to access the internet?",
+        "Do you prioritize online activities over real-life interactions?",
+        "How do you manage your time spent on the internet?",
+        "Do you often lose track of time while online?",
+        "How do you feel when you think about reducing your internet use?"
+    ],
+    "Paralysis": [
+        "Have you noticed any changes in your ability to move parts of your body?",
+        "How often do you feel weakness or numbness in your limbs?",
+        "Do you struggle with tasks that require movement?",
+        "How do you manage daily activities that require physical effort?",
+        "Have you noticed any changes in your muscle strength?",
+        "How does your mobility compare to a few months ago?",
+        "Do you experience difficulty with balance or coordination?"
+    ],
+    "Trouble understanding language": [
+        "Do you find it hard to follow conversations?",
+        "How often do you need to ask people to repeat themselves?",
+        "Do you struggle with understanding written instructions?",
+        "How do you feel about reading complex texts?",
+        "Do you ever feel lost during group discussions?",
+        "How often do you misunderstand what others are saying?",
+        "Do you find it challenging to express yourself verbally?"
+    ],
+    "Unpredictable emotions": [
+        "How often do your feelings change suddenly?",
+        "Do you sometimes feel emotions that seem out of place?",
+        "How do you manage your emotions when they fluctuate?",
+        "Do others comment on your changing moods?",
+        "How do you feel about your ability to control your emotions?",
+        "Do you find that small events can drastically change your mood?",
+        "How do you cope with feelings of emotional instability?"
+    ],
+    "Self-doubt": [
+        "How confident do you feel in your decisions?",
+        "Do you often question your abilities?",
+        "How do you handle criticism from others?",
+        "Do you rely on others for validation?",
+        "How often do you feel unsure about your actions?",
+        "Do you struggle with making decisions on your own?",
+        "How do you feel about your achievements and successes?"
+    ],
+    "Carb cravings": [
+        "How often do you find yourself craving foods like bread, pasta, or sweets?",
+        "Do you feel a strong urge to eat carbohydrates when you're stressed?",
+        "How do you manage your cravings for carb-rich foods?",
+        "Do you feel satisfied after eating carbs, or do you crave more?",
+        "How often do you snack on carb-heavy foods?",
+        "Do you notice a pattern in your cravings, such as time of day?",
+        "How do you feel if you try to avoid eating carbs?"
+    ],
+    "Cultural adjustment issues": [
+        "How do you feel about living in a new cultural environment?",
+        "Do you find it difficult to adapt to new cultural norms?",
+        "How comfortable are you with the language spoken in your new environment?",
+        "Do you often feel out of place or isolated?",
+        "How do you manage feelings of homesickness or cultural dissonance?",
+        "Do you find it hard to relate to people from different cultural backgrounds?",
+        "How do you feel about maintaining your cultural identity while adapting to a new one?"
+    ],
+    "Learning disabilities": [
+        "Do you struggle with understanding or remembering new information?",
+        "How do you feel about tasks that involve reading or writing?",
+        "Do you often find it hard to keep up with others in learning environments?",
+        "How do you cope with challenges related to learning new skills?",
+        "Do you require extra time or help to complete assignments or tasks?",
+        "How do you feel about your progress in learning new things?",
+        "Do you find certain subjects or tasks more difficult than others?"
+    ],
+    "Rapidly shifting emotions": [
+        "How often do your emotions change suddenly?",
+        "Do you sometimes feel overwhelmed by your emotions?",
+        "How do you manage feelings that change quickly?",
+        "Do others comment on your mood swings?",
+        "How do you feel about your ability to control your emotions?",
+        "Do you find that small events can drastically change your mood?",
+        "How do you cope with feelings of emotional instability?"
+    ],
+    "Difficulty forming attachments": [
+        "How easy is it for you to connect with others emotionally?",
+        "Do you find it hard to trust people, even those close to you?",
+        "How do you feel about forming close relationships?",
+        "Do you often worry about being hurt in relationships?",
+        "How do you react when someone tries to get close to you?",
+        "Do you find it difficult to maintain long-term relationships?",
+        "How do you feel about expressing vulnerability in relationships?"
+    ],
+    "Difficulty with reading": [
+        "How do you feel about reading books or articles?",
+        "Do you struggle with understanding or remembering what you read?",
+        "How often do you avoid reading tasks?",
+        "Do you find it hard to stay focused while reading?",
+        "How do you manage tasks that require reading?",
+        "Do you prefer other forms of information over reading?",
+        "How do you feel about your reading skills compared to others?"
+    ],
+    "Envy": [
+        "How do you feel when you see others achieving something you want?",
+        "Do you often compare yourself to others?",
+        "How do you manage feelings of jealousy or envy?",
+        "Do you find it hard to be happy for others' successes?",
+        "How do you react when someone close to you achieves something significant?",
+        "How often do you think about what others have that you don't?",
+        "How do you cope with feelings of envy?"
+    ],
+    "Preoccupation with deceased": [
+        "How often do you think about someone who has passed away?",
+        "Do you find it hard to move on from a loss?",
+        "How do you feel when you're reminded of the deceased?",
+        "Do you often find yourself talking about or to the deceased?",
+        "How do you manage feelings of grief or longing?",
+        "Do you feel that your thoughts about the deceased interfere with your daily life?",
+        "How do you cope with reminders of the deceased?"
+    ],
+    "Premature ejaculation": [
+        "How often do you experience difficulty with controlling ejaculation?",
+        "How do you feel about your sexual performance?",
+        "Do you find it hard to relax during sexual activity?",
+        "How do you cope with concerns about sexual performance?",
+        "Do you feel anxious or stressed before or during sexual activity?",
+        "How do you communicate with your partner about sexual concerns?",
+        "How do you feel about seeking help for sexual issues?"
+    ],
+    "Discomfort with assigned gender": [
+        "How do you feel about the gender you were assigned at birth?",
+        "Do you often think about what it would be like to live as a different gender?",
+        "How comfortable are you with gender-related social roles?",
+        "How do you feel when people refer to you by your assigned gender?",
+        "Do you experience distress about your physical appearance related to gender?",
+        "How do you cope with feelings related to gender identity?",
+        "How do you feel about discussing your gender identity with others?"
+    ],
+    "Preoccupation with body parts": [
+        "How often do you think about specific parts of your body?",
+        "Do you feel self-conscious about any part of your body?",
+        "How do you cope with dissatisfaction with your appearance?",
+        "Do you spend a lot of time checking or comparing parts of your body?",
+        "How do you feel about your body when you look in the mirror?",
+        "How often do you seek reassurance about your appearance?",
+        "Do you avoid certain activities because of concerns about your body?"
+    ],
+    "Disregard for rules": [
+        "How do you feel about following rules and regulations?",
+        "Do you often find yourself breaking or bending rules?",
+        "How do you justify your actions when you break rules?",
+        "Do you think rules are necessary or helpful?",
+        "How do you react when others enforce rules on you?",
+        "Do you find it difficult to follow rules you disagree with?",
+        "How do you feel about the consequences of breaking rules?"
+    ],
+    "Hyperventilation": [
+        "How often do you experience rapid or shallow breathing?",
+        "Do you find it hard to catch your breath during stressful situations?",
+        "How do you manage your breathing when you feel anxious?",
+        "Do you often feel lightheaded or dizzy during episodes of rapid breathing?",
+        "How do you cope with feelings of breathlessness?",
+        "How do you feel after a period of hyperventilation?",
+        "Do you notice any patterns or triggers for your hyperventilation?"
+    ],
+    "Sexual aversion": [
+        "How do you feel about sexual activity?",
+        "Do you often avoid situations that might lead to sexual contact?",
+        "How comfortable are you with discussions about sex?",
+        "How do you react when someone expresses sexual interest in you?",
+        "Do you feel anxious or distressed about sexual situations?",
+        "How do you cope with feelings of sexual aversion?",
+        "How do you feel about your past experiences with sex?"
+    ],
+    "Disorganized behavior": [
+        "How often do you feel like your thoughts or actions are scattered?",
+        "Do you struggle with keeping your daily routine organized?",
+        "How do you manage tasks that require planning or organization?",
+        "Do you often lose track of things or forget important details?",
+        "How do you feel when your environment is chaotic or messy?",
+        "How do you cope with feelings of being overwhelmed?",
+        "Do others comment on your level of organization or disorganization?"
+    ],
+    "Avoidance of social activities": [
+        "How do you feel about attending social events?",
+        "Do you often find reasons to avoid social gatherings?",
+        "How do you feel when you're invited to a party or group activity?",
+        "Do you prefer being alone rather than being in a crowd?",
+        "How do you cope with feelings of anxiety about social situations?",
+        "How often do you participate in social activities?",
+        "How do you feel after attending a social event?"
+    ],
+    "Distress about appearance": [
+        "How often do you worry about your appearance?",
+        "How do you feel when you compare your looks to others?",
+        "Do you spend a lot of time trying to improve your appearance?",
+        "How do you cope with feelings of dissatisfaction about your looks?",
+        "Do you often seek reassurance about your appearance from others?",
+        "How do you feel when you look in the mirror?",
+        "How do concerns about your appearance affect your daily life?"
+    ],
+    "Discomfort": [
+        "How often do you feel physically uncomfortable?",
+        "Do you experience discomfort in specific situations or environments?",
+        "How do you manage feelings of discomfort?",
+        "Do you find it hard to relax or feel at ease?",
+        "How do you cope with physical or emotional discomfort?",
+        "How do you feel about addressing the sources of your discomfort?",
+        "Do others notice when you're feeling uncomfortable?"
+    ],
+    "Distress about gender identity": [
+        "How do you feel about the gender you were assigned at birth?",
+        "Do you often think about what it would be like to live as a different gender?",
+        "How comfortable are you with gender-related social roles?",
+        "How do you feel when people refer to you by your assigned gender?",
+        "Do you experience distress about your physical appearance related to gender?",
+        "How do you cope with feelings related to gender identity?",
+        "How do you feel about discussing your gender identity with others?"
+    ],
+    "Attention deficits": [
+        "How often do you find it hard to focus on tasks?",
+        "Do you struggle with paying attention during conversations?",
+        "How do you manage tasks that require sustained concentration?",
+        "Do you often feel easily distracted?",
+        "How do you cope with feelings of restlessness or impatience?",
+        "How do you feel about your ability to complete tasks on time?",
+        "Do others comment on your attention span or focus?"
+    ],
+    "Clutter": [
+        "How do you feel about the state of your living space?",
+        "Do you find it hard to let go of items you no longer need?",
+        "How do you manage belongings that accumulate over time?",
+        "How often do you organize or declutter your space?",
+        "How do you feel when your environment is messy or cluttered?",
+        "Do you find it difficult to maintain a tidy space?",
+        "How do you cope with feelings of being overwhelmed by clutter?"
+    ],
+    "Processing difficulties": [
+        "How often do you struggle with understanding information?",
+        "Do you find it hard to process complex instructions or ideas?",
+        "How do you cope with tasks that require quick thinking?",
+        "Do you often need extra time to make decisions?",
+        "How do you manage situations where you feel mentally overwhelmed?",
+        "Do others comment on your ability to grasp new concepts?",
+        "How do you feel about your ability to process information compared to others?"
+    ],
+    "Sensory sensitivities": [
+        "How do you feel about certain sounds, lights, or textures?",
+        "Do you often feel overwhelmed by sensory input?",
+        "How do you manage environments that are too bright, loud, or chaotic?",
+        "Do you have specific preferences for clothing or materials?",
+        "How do you cope with situations that trigger your sensory sensitivities?",
+        "Do others notice your reactions to sensory stimuli?",
+        "How do you feel about discussing your sensory experiences with others?"
+    ],
+    "Hypersensitivity to criticism": [
+        "How do you usually react when someone criticizes you?",
+        "Do you often feel hurt or defensive when receiving feedback?",
+        "How do you cope with feelings of inadequacy after criticism?",
+        "Do you find it hard to separate constructive criticism from personal attacks?",
+        "How do you feel about seeking feedback from others?",
+        "How often do you ruminate on critical comments?",
+        "How do you feel about your ability to improve based on criticism?"
+    ],
+    "Non-verbal communication issues": [
+        "How do you feel about understanding others' body language?",
+        "Do you find it hard to read facial expressions or gestures?",
+        "How do you manage conversations where non-verbal cues are important?",
+        "Do you often misinterpret others' intentions based on their body language?",
+        "How do you feel about expressing yourself without words?",
+        "Do others comment on your ability to pick up on non-verbal signals?",
+        "How do you feel about your non-verbal communication skills compared to others?"
+    ],
+    "Preoccupation with order": [
+        "How do you feel about organizing your surroundings?",
+        "Do you often spend time arranging or rearranging items?",
+        "How do you manage situations where things feel out of order?",
+        "Do you find it hard to relax in a disorganized environment?",
+        "How do you cope with feelings of anxiety related to disorder?",
+        "How often do you check or adjust things to ensure they're in place?",
+        "How do you feel about your need for order compared to others?"
+    ],
+    "Feigning symptoms": [
+        "How do you feel about pretending to be ill or in distress?",
+        "Do you often exaggerate symptoms to gain attention or sympathy?",
+        "How do you manage feelings of guilt or shame related to feigning illness?",
+        "How do you feel when others notice you're pretending?",
+        "Do you think about the impact of your actions on your relationships?",
+        "How do you feel after you've successfully convinced someone of your symptoms?",
+        "Do you feel compelled to continue this behavior even when it's harmful?"
+    ],
+    "Detachment": [
+        "How do you feel about forming close relationships?",
+        "Do you often feel emotionally distant from others?",
+        "How do you manage feelings of disconnection from those around you?",
+        "Do you find it hard to engage with others on a deeper level?",
+        "How do you cope with feelings of loneliness or isolation?",
+        "How do you feel about expressing your emotions to others?",
+        "Do you prefer to keep your distance from people, even those close to you?"
+    ],
+    "Hyperarousal": [
+        "How often do you feel tense or on edge?",
+        "Do you find it hard to relax, even in safe environments?",
+        "How do you manage feelings of restlessness or agitation?",
+        "Do you often experience difficulty sleeping due to hyperarousal?",
+        "How do you cope with sudden feelings of panic or anxiety?",
+        "How do you feel about your ability to calm yourself down?",
+        "Do others notice when you're feeling hyperaroused?"
+    ],
+    "Speech impediments": [
+        "How do you feel about speaking in front of others?",
+        "Do you find it hard to articulate your thoughts verbally?",
+        "How do you manage situations where clear communication is required?",
+        "Do you often feel frustrated with your ability to speak clearly?",
+        "How do you cope with feelings of embarrassment about your speech?",
+        "How do you feel about seeking help for speech-related challenges?",
+        "Do others comment on your speech or communication skills?"
+    ],
+    "Feigning illness": [
+        "How do you feel about pretending to be ill or in distress?",
+        "Do you often exaggerate symptoms to gain attention or sympathy?",
+        "How do you manage feelings of guilt or shame related to feigning illness?",
+        "How do you feel when others notice you're pretending?",
+        "Do you think about the impact of your actions on your relationships?",
+        "How do you feel after you've successfully convinced someone of your symptoms?",
+        "Do you feel compelled to continue this behavior even when it's harmful?"
+    ],
+    "Fixed false beliefs": [
+        "How often do you find yourself holding onto beliefs that others challenge?",
+        "Do you feel strongly about certain ideas, even without evidence?",
+        "How do you react when others question your beliefs?",
+        "Do you often feel that your beliefs are misunderstood or dismissed?",
+        "How do you cope with the tension between your beliefs and reality?",
+        "Do others comment on your commitment to certain ideas or beliefs?",
+        "How do you feel about changing your mind or considering alternative perspectives?"
+    ],
+    "Emotionally withdrawn": [
+        "How do you feel about sharing your emotions with others?",
+        "Do you often keep your feelings to yourself?",
+        "How do you manage situations where others expect you to be emotionally open?",
+        "Do you find it hard to connect with others on an emotional level?",
+        "How do you cope with feelings of emotional numbness or detachment?",
+        "How do you feel about your ability to express your emotions?",
+        "Do others comment on your emotional availability or lack thereof?"
+    ],
+    "Scarring": [
+        "How do you feel about the appearance of your scars?",
+        "Do you find it hard to accept your scars as part of your body?",
+        "How do you cope with feelings of self-consciousness about your scars?",
+        "Do you often try to hide or cover your scars?",
+        "How do you feel when others notice or comment on your scars?",
+        "How do you manage situations where your scars are exposed?",
+        "How do you feel about discussing your scars with others?"
+    ],
+    "Confusion": [
+        "How often do you feel disoriented or unsure of what's happening?",
+        "Do you find it hard to keep track of conversations or events?",
+        "How do you manage feelings of confusion in unfamiliar situations?",
+        "Do you often need others to explain things more than once?",
+        "How do you cope with situations where you feel lost or confused?",
+        "How do you feel about your ability to understand what's going on around you?",
+        "Do others comment on your level of awareness or understanding?"
+    ],
+    "Daytime sleepiness": [
+        "How often do you feel tired or drowsy during the day?",
+        "Do you struggle to stay awake during activities that require focus?",
+        "How do you manage feelings of fatigue or sleepiness?",
+        "Do you often take naps or rest during the day?",
+        "How do you feel about your nighttime sleep quality?",
+        "How does daytime sleepiness affect your daily life?",
+        "Do others notice when you're feeling sleepy during the day?"
+    ],
+    "Difficulties with work": [
+        "How do you feel about your current job or responsibilities?",
+        "Do you often struggle to meet deadlines or complete tasks?",
+        "How do you manage work-related stress or pressure?",
+        "Do you find it hard to stay motivated or focused at work?",
+        "How do you feel about your ability to perform well in your job?",
+        "How often do you feel overwhelmed by your workload?",
+        "Do others comment on your work performance or productivity?"
+    ],
+    "Numbness": [
+        "How often do you feel physically or emotionally numb?",
+        "Do you find it hard to experience strong emotions?",
+        "How do you manage situations where you feel detached or indifferent?",
+        "Do you often feel disconnected from your surroundings?",
+        "How do you cope with feelings of numbness or emptiness?",
+        "How do you feel about your ability to feel emotions?",
+        "Do others notice when you're feeling numb or disconnected?"
+    ],
+    "Difficulty with relationships": [
+        "How do you feel about your current relationships?",
+        "Do you often find it hard to connect with others?",
+        "How do you manage conflicts or disagreements in relationships?",
+        "Do you find it difficult to maintain long-term relationships?",
+        "How do you feel about your ability to communicate effectively with others?",
+        "How often do you feel lonely or isolated in your relationships?",
+        "Do others comment on the state of your relationships?"
+    ],
+    "Flat affect": [
+        "How do you feel about expressing your emotions to others?",
+        "Do you often find it hard to show how you're feeling?",
+        "How do you manage situations where others expect emotional responses?",
+        "Do you feel that your facial expressions match your emotions?",
+        "How do you cope with feelings of emotional flatness or numbness?",
+        "How do others react to your emotional expressions or lack thereof?",
+        "How do you feel about your ability to connect with others emotionally?"
+    ],
+    "Trouble understanding questions": [
+        "How often do you find it hard to understand questions asked of you?",
+        "Do you need people to rephrase questions for clarity?",
+        "How do you manage situations where you're confused by a question?",
+        "Do you often feel unsure of how to respond to questions?",
+        "How do you feel about your ability to grasp the meaning of questions?",
+        "Do others notice when you struggle to understand what's being asked?",
+        "How do you cope with feelings of confusion during conversations?"
+    ],
+    "Food intolerance": [
+        "How do you feel after eating certain foods?",
+        "Do you often experience discomfort or symptoms after meals?",
+        "How do you manage dietary restrictions or food sensitivities?",
+        "Do you find it hard to identify foods that cause you issues?",
+        "How do you cope with feelings of frustration about food choices?",
+        "How do you feel about discussing your food intolerance with others?",
+        "Do others notice when you're avoiding certain foods or ingredients?"
+    ],
+    "Insomnia": [
+        "How do you feel about your ability to fall asleep at night?",
+        "Do you often find yourself lying awake for long periods?",
+        "How do you manage feelings of restlessness or anxiety at bedtime?",
+        "Do you wake up frequently during the night?",
+        "How do you feel about your energy levels during the day?",
+        "How often do you feel refreshed after a night's sleep?",
+        "How do you cope with feelings of frustration about your sleep patterns?"
+    ],
+    "Frustration tolerance": [
+        "How do you feel about handling challenges or setbacks?",
+        "Do you often get easily frustrated when things don't go your way?",
+        "How do you manage feelings of impatience or irritation?",
+        "Do you find it hard to stay calm in difficult situations?",
+        "How do you feel about your ability to persevere through obstacles?",
+        "How do others react to your frustration or impatience?",
+        "How do you cope with feelings of anger or annoyance?"
+    ],
+    "Health maintenance noncompliance": [
+        "How do you feel about following your doctor's advice?",
+        "Do you often find it hard to stick to health-related routines?",
+        "How do you manage feelings of resistance to taking care of your health?",
+        "Do you often forget or avoid taking prescribed medications?",
+        "How do you feel about the importance of regular health check-ups?",
+        "How do others react to your attitude towards health maintenance?",
+        "How do you cope with feelings of guilt or concern about your health habits?"
+    ],
+    "Low self-esteem": [
+        "How do you feel about yourself overall?",
+        "Do you often doubt your abilities or worth?",
+        "How do you manage feelings of inadequacy or self-doubt?",
+        "Do you find it hard to accept compliments or praise?",
+        "How do you feel about your ability to achieve your goals?",
+        "How do others react to your self-perception?",
+        "How do you cope with feelings of low self-esteem?"
+    ],
+    "Hyperactivity": [
+        "How often do you feel restless or fidgety?",
+        "Do you find it hard to sit still for long periods?",
+        "How do you manage feelings of excessive energy?",
+        "Do you often feel the need to move or stay active?",
+        "How do you feel about tasks that require calm and focus?",
+        "How do others react to your level of activity?",
+        "How do you cope with feelings of hyperactivity?"
+    ],
+    "Indecisiveness": [
+        "How do you feel about making decisions?",
+        "Do you often struggle with choosing between options?",
+        "How do you manage feelings of uncertainty when making decisions?",
+        "Do you find it hard to commit to a choice once it's made?",
+        "How do you feel about your decision-making process?",
+        "How do others react to your indecisiveness?",
+        "How do you cope with feelings of regret or second-guessing?"
+    ],
+    "Infidelity": [
+        "How do you feel about your current relationship?",
+        "Do you often think about being unfaithful to your partner?",
+        "How do you manage feelings of temptation or desire?",
+        "Do you feel guilty or conflicted about your thoughts or actions?",
+        "How do you cope with the consequences of infidelity?",
+        "How do others react to your behavior or intentions?",
+        "How do you feel about discussing your feelings with your partner?"
+    ],
+    "Poor insight": [
+        "How do you feel about understanding your own behavior?",
+        "Do you often find it hard to recognize your own faults or mistakes?",
+        "How do you manage situations where others point out your flaws?",
+        "Do you feel that you have a good understanding of your strengths and weaknesses?",
+        "How do you feel about receiving feedback or advice from others?",
+        "How do others react to your level of self-awareness?",
+        "How do you cope with feelings of confusion about your actions or decisions?"
+    ],
+    "Preoccupation with weight": [
+        "How do you feel about your body weight?",
+        "Do you often think about dieting or losing weight?",
+        "How do you manage feelings of dissatisfaction with your body?",
+        "Do you frequently weigh yourself or check your appearance?",
+        "How do you feel when you see others who are thinner or heavier than you?",
+        "How do others react to your concerns about weight?",
+        "How do you cope with feelings of anxiety about your weight?"
+    ],
+    "Psychosocial stress": [
+        "How do you feel about your current life situation?",
+        "Do you often feel overwhelmed by your responsibilities?",
+        "How do you manage stress related to work, family, or social obligations?",
+        "Do you find it hard to relax or unwind after a stressful day?",
+        "How do you cope with feelings of anxiety or tension?",
+        "How do others react to your level of stress?",
+        "How do you feel about your ability to handle stress?"
+    ],
+    "Rumination": [
+        "How often do you find yourself dwelling on negative thoughts?",
+        "Do you struggle with letting go of past events or mistakes?",
+        "How do you manage feelings of regret or guilt?",
+        "Do you often replay conversations or situations in your mind?",
+        "How do you feel about your ability to move on from negative experiences?",
+        "How do others react to your tendency to ruminate?",
+        "How do you cope with feelings of frustration about your thoughts?"
+    ],
+    "Thought insertion": [
+        "How do you feel about your thoughts?",
+        "Do you ever feel like your thoughts are not your own?",
+        "How do you manage feelings of confusion about your thoughts?",
+        "Do you often find it hard to control your thinking?",
+        "How do you feel about discussing your thoughts with others?",
+        "How do others react to your concerns about your thoughts?",
+        "How do you cope with feelings of anxiety about your mind?"
+    ],
+    "Visual hallucinations": [
+        "How often do you see things that others don't?",
+        "How do you feel when you experience these visual disturbances?",
+        "Do you find it hard to distinguish between reality and hallucinations?",
+        "How do you manage situations where you see things that aren't there?",
+        "How do others react when you describe your visual experiences?",
+        "How do you feel about discussing your hallucinations with a professional?",
+        "How do you cope with the impact of visual hallucinations on your daily life?"
+    ],
+    "Worry": [
+        "How often do you find yourself worrying about things?",
+        "Do you struggle with controlling your worries?",
+        "How do you manage feelings of anxiety or fear?",
+        "Do you often worry about things that are out of your control?",
+        "How do you feel about your ability to cope with uncertainty?",
+        "How do others react to your level of worry?",
+        "How do you cope with feelings of dread or apprehension?"
+    ],
+ "Compulsive acquisition": [
+        "How often do you feel the need to acquire new items, even when unnecessary?",
+        "Do you struggle to resist buying things that you don't need?",
+        "How do you manage feelings of guilt after purchasing unnecessary items?",
+        "Do you often find it hard to get rid of things once you have them?",
+        "How does compulsive acquisition affect your finances or living space?",
+        "How do others react to your purchasing habits?",
+        "How do you feel about your ability to control your spending?"
+    ],
+    "Struggles with moral decisions": [
+        "How do you feel when faced with difficult moral choices?",
+        "Do you often find yourself conflicted about doing the right thing?",
+        "How do you manage feelings of guilt or doubt after making a decision?",
+        "Do you seek advice from others when making moral decisions?",
+        "How do you cope with the consequences of your decisions?",
+        "How do others react to your moral dilemmas?",
+        "How do you feel about your ability to make ethical choices?"
+    ],
+    "Submissiveness": [
+        "How do you feel about asserting yourself in social situations?",
+        "Do you often go along with others' wishes even when you disagree?",
+        "How do you manage feelings of discomfort when you want to speak up?",
+        "Do you find it hard to say no to requests from others?",
+        "How do you feel about your ability to stand up for yourself?",
+        "How do others react to your level of submissiveness?",
+        "How do you cope with feelings of resentment or frustration?"
+    ],
+    "Intrusive thoughts": [
+        "How often do you experience thoughts that feel unwanted or distressing?",
+        "Do you struggle to control or dismiss these thoughts?",
+        "How do you manage feelings of anxiety related to these thoughts?",
+        "Do you find it hard to focus on tasks because of these thoughts?",
+        "How do you feel about discussing these thoughts with others?",
+        "How do others react when you share your experiences with intrusive thoughts?",
+        "How do you cope with the impact of these thoughts on your daily life?"
+    ],
+    "Clinginess": [
+        "How do you feel about being apart from loved ones?",
+        "Do you often worry about being abandoned or left alone?",
+        "How do you manage feelings of anxiety when you're not with someone you care about?",
+        "Do you find it hard to give others space in your relationships?",
+        "How do you feel about your level of attachment to others?",
+        "How do others react to your need for closeness?",
+        "How do you cope with feelings of loneliness or insecurity?"
+    ],
+    "Internet addiction": [
+        "How often do you find yourself spending excessive time online?",
+        "Do you struggle to limit your internet use?",
+        "How do you manage feelings of anxiety or restlessness when offline?",
+        "Do you find it hard to balance online activities with other responsibilities?",
+        "How do you feel about the impact of internet use on your daily life?",
+        "How do others react to your internet habits?",
+        "How do you cope with feelings of guilt or concern about your internet use?"
+    ],
+    "Paralysis": [
+        "How do you feel when faced with decisions or tasks?",
+        "Do you often find yourself unable to take action due to fear or doubt?",
+        "How do you manage feelings of being stuck or immobilized?",
+        "Do you struggle with making progress in your personal or professional life?",
+        "How do you feel about your ability to move forward when necessary?",
+        "How do others react to your difficulty in making decisions?",
+        "How do you cope with feelings of helplessness or being overwhelmed?"
+    ],
+    "Trouble understanding language": [
+        "How often do you struggle to understand spoken or written language?",
+        "Do you find it hard to follow conversations or instructions?",
+        "How do you manage situations where you're confused by language?",
+        "Do you often need clarification or repetition to understand others?",
+        "How do you feel about your ability to communicate effectively?",
+        "How do others react when you struggle with language comprehension?",
+        "How do you cope with the challenges of understanding language in daily life?"
+    ],
+    "Unpredictable emotions": [
+        "How often do your emotions change suddenly without clear cause?",
+        "Do you struggle to manage emotions that seem to come out of nowhere?",
+        "How do you cope with feelings of instability or unpredictability?",
+        "Do you find it hard to explain your emotional shifts to others?",
+        "How do others react to your sudden changes in mood?",
+        "How do you feel about your ability to control your emotions?",
+        "How do you cope with the impact of unpredictable emotions on your relationships?"
+    ],
+    "Self-doubt": [
+        "How often do you question your own abilities or decisions?",
+        "Do you struggle with feelings of insecurity or inadequacy?",
+        "How do you manage situations where you're unsure of yourself?",
+        "Do you find it hard to trust your own judgment?",
+        "How do others react to your expressions of self-doubt?",
+        "How do you feel about your ability to succeed or achieve your goals?",
+        "How do you cope with the impact of self-doubt on your daily life?"
+    ],
+    "Carb cravings": [
+        "How often do you find yourself craving carbohydrate-rich foods?",
+        "Do you struggle to resist eating carbs even when you're not hungry?",
+        "How do you manage feelings of guilt after consuming high-carb foods?",
+        "Do you notice a pattern in your cravings, such as certain times of day?",
+        "How do others react to your eating habits related to carbs?",
+        "How do you feel about your ability to control these cravings?",
+        "How do you cope with the impact of carb cravings on your diet or health?"
+    ],
+    "Cultural adjustment issues": [
+        "How do you feel about adapting to a new culture or environment?",
+        "Do you struggle with feelings of homesickness or cultural dissonance?",
+        "How do you manage situations where you feel out of place?",
+        "Do you find it hard to balance your cultural identity with fitting in?",
+        "How do others react to your experiences with cultural adjustment?",
+        "How do you feel about your ability to navigate cultural differences?",
+        "How do you cope with the impact of cultural adjustment on your daily life?"
+    ],
+    "Learning disabilities": [
+        "How do you feel about your ability to learn new things?",
+        "Do you struggle with certain subjects or tasks more than others?",
+        "How do you manage situations where you find learning difficult?",
+        "Do you find it hard to keep up with others in educational settings?",
+        "How do others react to your learning challenges?",
+        "How do you feel about seeking help or accommodations for learning?",
+        "How do you cope with the impact of learning disabilities on your education or career?"
+    ],
+    "Rapidly shifting emotions": [
+        "How often do your emotions change quickly or without warning?",
+        "Do you struggle to understand why your mood shifts suddenly?",
+        "How do you manage situations where your emotions feel out of control?",
+        "Do you find it hard to explain your emotional changes to others?",
+        "How do others react to your rapidly shifting emotions?",
+        "How do you feel about your ability to stabilize your mood?",
+        "How do you cope with the impact of these emotional changes on your daily life?"
+    ],
+    "Difficulty forming attachments": [
+        "How do you feel about forming close relationships with others?",
+        "Do you struggle to trust or open up to people?",
+        "How do you manage feelings of detachment or emotional distance?",
+        "Do you find it hard to maintain long-term relationships?",
+        "How do others react to your difficulty in forming attachments?",
+        "How do you feel about your ability to connect with others emotionally?",
+        "How do you cope with the impact of this difficulty on your relationships?"
+    ],
+    "Difficulty with reading": [
+        "How do you feel about your ability to read and comprehend written material?",
+        "Do you struggle to keep up with reading assignments or tasks?",
+        "How do you manage situations where reading is challenging for you?",
+        "Do you often find yourself re-reading to understand the content?",
+        "How do others react when you struggle with reading?",
+        "How do you feel about seeking help for reading difficulties?",
+        "How do you cope with the impact of reading difficulties on your education or work?"
+    ],
+    "Envy": [
+        "How often do you find yourself feeling envious of others?",
+        "Do you struggle to be happy for others when they succeed?",
+        "How do you manage feelings of jealousy or resentment?",
+        "Do you find it hard to focus on your own achievements because of envy?",
+        "How do others react when you express feelings of envy?",
+        "How do you feel about your ability to appreciate what you have?",
+        "How do you cope with the impact of envy on your relationships?"
+    ],
+    "Preoccupation with deceased": [
+        "How often do you find yourself thinking about someone who has passed away?",
+        "Do you struggle to move on from the loss of a loved one?",
+        "How do you manage feelings of grief or sadness?",
+        "Do you find it hard to focus on the present because of your thoughts about the deceased?",
+        "How do others react when you talk about your preoccupation with the deceased?",
+        "How do you feel about your ability to process and accept the loss?",
+        "How do you cope with the impact of this preoccupation on your daily life?"
+    ],
+    "Premature ejaculation": [
+        "How do you feel about your ability to control the timing of ejaculation?",
+        "Do you struggle with feelings of embarrassment or frustration?",
+        "How do you manage the impact of premature ejaculation on your relationship?",
+        "Do you find it hard to talk to your partner about this issue?",
+        "How do others react when you discuss concerns about sexual performance?",
+        "How do you feel about your ability to improve or manage this condition?",
+        "How do you cope with the impact of premature ejaculation on your self-esteem?"
+    ],
+    "Discomfort with assigned gender": [
+        "How do you feel about the gender you were assigned at birth?",
+        "Do you struggle with feelings of discomfort or disconnect with your gender?",
+        "How do you manage situations where your gender identity is questioned or challenged?",
+        "Do you find it hard to express your true gender identity?",
+        "How do others react when you talk about your gender identity?",
+        "How do you feel about seeking support or resources related to gender identity?",
+        "How do you cope with the impact of gender discomfort on your daily life?"
+    ],
+    "Preoccupation with body parts": [
+        "How often do you find yourself focusing on specific parts of your body?",
+        "Do you struggle with feelings of dissatisfaction or obsession with your appearance?",
+        "How do you manage situations where you're preoccupied with a body part?",
+        "Do you find it hard to accept or feel positive about your body?",
+        "How do others react when you talk about your body concerns?",
+        "How do you feel about seeking help for body image issues?",
+        "How do you cope with the impact of this preoccupation on your self-esteem?"
+    ],
+    "Disregard for rules": [
+        "How do you feel about following rules or guidelines?",
+        "Do you struggle with the temptation to break or bend rules?",
+        "How do you manage situations where you're expected to comply with rules?",
+        "Do you find it hard to respect authority or established norms?",
+        "How do others react to your attitudes toward rules?",
+        "How do you feel about the consequences of disregarding rules?",
+        "How do you cope with the impact of this behavior on your relationships or responsibilities?"
+    ],
+    "Hyperventilation": [
+        "How often do you experience rapid or shallow breathing?",
+        "Do you struggle to control your breathing when feeling anxious or stressed?",
+        "How do you manage situations where you start to hyperventilate?",
+        "Do you find it hard to calm down once hyperventilation starts?",
+        "How do others react when you experience hyperventilation?",
+        "How do you feel about your ability to manage this condition?",
+        "How do you cope with the impact of hyperventilation on your daily life?"
+    ],
+    "Sexual aversion": [
+        "How do you feel about engaging in sexual activities?",
+        "Do you struggle with feelings of fear, disgust, or anxiety related to sex?",
+        "How do you manage situations where sexual activity is expected?",
+        "Do you find it hard to communicate your feelings about sex to your partner?",
+        "How do others react to your level of interest or aversion to sex?",
+        "How do you feel about seeking help for these feelings?",
+        "How do you cope with the impact of sexual aversion on your relationship?"
+    ],
+    "Disorganized behavior": [
+        "How do you feel about your ability to stay organized in daily tasks?",
+        "Do you struggle with keeping your living or work space in order?",
+        "How do you manage situations where organization is crucial?",
+        "Do you find it hard to follow through on plans or commitments?",
+        "How do others react to your level of disorganization?",
+        "How do you feel about your ability to improve your organizational skills?",
+        "How do you cope with the impact of disorganized behavior on your responsibilities?"
+    ],
+    "Avoidance of social activities": [
+        "How do you feel about attending social events or gatherings?",
+        "Do you struggle with the desire to avoid social interactions?",
+        "How do you manage situations where you're expected to be social?",
+        "Do you find it hard to enjoy activities that involve others?",
+        "How do others react when you decline social invitations?",
+        "How do you feel about your level of social engagement?",
+        "How do you cope with the impact of avoiding social activities on your relationships?"
+    ],
+    "Distress about appearance": [
+        "How do you feel about your physical appearance?",
+        "Do you struggle with feelings of dissatisfaction or distress about how you look?",
+        "How do you manage situations where you're self-conscious about your appearance?",
+        "Do you find it hard to accept compliments or positive feedback about your looks?",
+        "How do others react when you express concerns about your appearance?",
+        "How do you feel about seeking help for body image issues?",
+        "How do you cope with the impact of these feelings on your self-esteem and social life?"
+    ],
+    "Discomfort": [
+        "How often do you experience physical or emotional discomfort?",
+        "Do you struggle to identify the source of your discomfort?",
+        "How do you manage situations where you're feeling uncomfortable?",
+        "Do you find it hard to focus or relax when discomfort arises?",
+        "How do others react when you express that you're uncomfortable?",
+        "How do you feel about your ability to alleviate discomfort?",
+        "How do you cope with the impact of discomfort on your daily activities?"
+    ],
+    "Distress about gender identity": [
+        "How do you feel about your gender identity?",
+        "Do you struggle with feelings of distress or conflict about your gender?",
+        "How do you manage situations where your gender identity is questioned?",
+        "Do you find it hard to express or live as your true gender?",
+        "How do others react to your gender identity concerns?",
+        "How do you feel about seeking support for gender-related distress?",
+        "How do you cope with the impact of these feelings on your mental and emotional well-being?"
+    ],
+    "Attention deficits": [
+        "How do you feel about your ability to focus or pay attention?",
+        "Do you struggle with staying on task or avoiding distractions?",
+        "How do you manage situations where concentration is essential?",
+        "Do you find it hard to complete tasks that require sustained attention?",
+        "How do others react to your level of attentiveness?",
+        "How do you feel about your ability to improve focus and attention?",
+        "How do you cope with the impact of attention deficits on your daily responsibilities?"
+    ],
+    "Clutter": [
+        "How do you feel about the state of your living or work space?",
+        "Do you struggle with keeping areas tidy or organized?",
+        "How do you manage situations where clutter accumulates?",
+        "Do you find it hard to part with items, even when they're no longer needed?",
+        "How do others react to the level of clutter in your space?",
+        "How do you feel about your ability to maintain an organized environment?",
+        "How do you cope with the impact of clutter on your productivity and peace of mind?"
+    ],
+    "Processing difficulties": [
+        "How do you feel about your ability to process information or tasks?",
+        "Do you struggle with understanding or retaining new information?",
+        "How do you manage situations where quick thinking is required?",
+        "Do you find it hard to keep up with conversations or instructions?",
+        "How do others react to your processing speed or comprehension?",
+        "How do you feel about seeking help for processing difficulties?",
+        "How do you cope with the impact of these challenges on your learning or work?"
+    ],
+    "Sensory sensitivities": [
+        "How do you feel about certain sensory experiences, such as sounds, textures, or lights?",
+        "Do you struggle with feeling overwhelmed by sensory input?",
+        "How do you manage situations where sensory overload occurs?",
+        "Do you find it hard to be in environments with intense sensory stimuli?",
+        "How do others react to your sensory sensitivities?",
+        "How do you feel about your ability to cope with these sensitivities?",
+        "How do you cope with the impact of sensory issues on your daily life?"
+    ],
+    "Hypersensitivity to criticism": [
+        "How do you feel when receiving feedback or criticism?",
+        "Do you struggle with feelings of hurt or defensiveness when criticized?",
+        "How do you manage situations where criticism is offered?",
+        "Do you find it hard to separate constructive feedback from personal attacks?",
+        "How do others react to your sensitivity to criticism?",
+        "How do you feel about your ability to handle criticism constructively?",
+        "How do you cope with the impact of hypersensitivity on your self-esteem and relationships?"
+    ],
+    "Non-verbal communication issues": [
+        "How do you feel about your ability to understand non-verbal cues, such as body language or facial expressions?",
+        "Do you struggle with interpreting others' non-verbal signals?",
+        "How do you manage situations where non-verbal communication is key?",
+        "Do you find it hard to express yourself non-verbally?",
+        "How do others react to your non-verbal communication style?",
+        "How do you feel about seeking help for non-verbal communication challenges?",
+        "How do you cope with the impact of these challenges on your social interactions?"
+    ],
+    "Preoccupation with order": [
+        "How do you feel about the need for order or symmetry in your environment?",
+        "Do you struggle with discomfort or anxiety when things are out of place?",
+        "How do you manage situations where order is disrupted?",
+        "Do you find it hard to relax until everything is in its proper place?",
+        "How do others react to your need for order?",
+        "How do you feel about your ability to tolerate disorder or chaos?",
+        "How do you cope with the impact of this preoccupation on your daily routines?"
+    ],
+    "Sexual performance anxiety": [
+        "How do you feel about your sexual performance?",
+        "Do you struggle with feelings of anxiety or pressure before sexual activity?",
+        "How do you manage situations where you're worried about performance?",
+        "Do you find it hard to relax and enjoy sexual experiences?",
+        "How do others react when you discuss concerns about performance?",
+        "How do you feel about seeking help for performance anxiety?",
+        "How do you cope with the impact of this anxiety on your relationship?"
+    ],
+    "Substance use concerns": [
+        "How do you feel about your use of substances such as alcohol or drugs?",
+        "Do you struggle with feelings of guilt or worry about your substance use?",
+        "How do you manage situations where you're tempted to use substances?",
+        "Do you find it hard to cut back or quit using substances?",
+        "How do others react when you discuss your substance use?",
+        "How do you feel about seeking help for substance-related concerns?",
+        "How do you cope with the impact of substance use on your health and life?"
+    ],
+    "Perfectionism": [
+        "How do you feel about your need to achieve perfection in tasks or goals?",
+        "Do you struggle with feelings of dissatisfaction if things aren't perfect?",
+        "How do you manage situations where perfection isn't attainable?",
+        "Do you find it hard to accept mistakes or imperfections in yourself or others?",
+        "How do others react to your perfectionist tendencies?",
+        "How do you feel about your ability to balance high standards with flexibility?",
+        "How do you cope with the impact of perfectionism on your stress levels and relationships?"
+    ],
+    "Frequent checking for signs": [
+        "How often do you find yourself checking for specific signs or symptoms?",
+        "What triggers your need to check for signs?",
+        "How do you feel after checking for signs?",
+        "Do you find that checking for signs impacts your daily life?",
+        "What do you do when you find the signs you're looking for?",
+        "How does checking for signs affect your emotional state?",
+        "Have you ever tried to reduce or stop checking for signs?"
+    ],
+    "Re-experiencing trauma": [
+        "How frequently do you experience flashbacks or intrusive thoughts related to past trauma?",
+        "What situations or triggers tend to bring back traumatic memories?",
+        "How do you manage or cope with these re-experiencing episodes?",
+        "How do these experiences affect your daily life?"]
+    }

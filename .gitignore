@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore environment files
+web_env/
+
+# Ignore large files
+*.h5
+*.pkl
+*.csv
+
+# Ignore any other files that shouldn't be tracked
